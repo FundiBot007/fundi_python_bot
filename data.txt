@@ -1,0 +1,18 @@
+What are your operating hours?|We are open Monday to Saturday from 8am to 6pm.
+Do you open on Sundays?|We are closed on Sundays.
+Do you open on Sunday?|We are closed on Sundays.
+How much is a haircut?|A basic haircut costs R120.
+How much is braiding?|Braiding starts from R350 depending on style and length.
+You do braids|Braiding starts from R350 depending on style and length.
+How much is a wash and blow?|A wash and blow costs R80.
+Do you take bookings?|Yes, we accept bookings via WhatsApp or phone call.
+What is your WhatsApp number?|You can book on 081 234 5678.
+Hi| Hi - how may I assist you?
+How much is a wig installation?|Wig installation costs R200.
+Do you do relaxers?|Yes, relaxers start from R180.
+What is your busiest day?|Saturdays are usually the busiest.
+Do you do nails too?|Yes, we also offer manicure and pedicure services.
+Do you do kids hairstyles?|Yes, we do hairstyles for kids as well.
+Do you offer dreadlock maintenance?|Yes, we offer dreadlock maintenance and styling.
+Where are you located?|We are located at 123 Main Street, Durban.
+You do dreads|Yes, we offer dreadlock maintenance and styling.
