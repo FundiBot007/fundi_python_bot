@@ -16,3 +16,4 @@ Do you do kids hairstyles?|Yes, we do hairstyles for kids as well.
 Do you offer dreadlock maintenance?|Yes, we offer dreadlock maintenance and styling.
 Where are you located?|We are located at 123 Main Street, Durban.
 You do dreads|Yes, we offer dreadlock maintenance and styling.
+Do you do hair dyres? | Dying hair starts from R120
